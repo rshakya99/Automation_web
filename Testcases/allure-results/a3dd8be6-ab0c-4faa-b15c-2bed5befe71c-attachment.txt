@@ -1,0 +1,6 @@
+[32mINFO    [0m Testcases.test_login:test_login.py:24 Test Do Login started
+[32mINFO    [0m Pages.BasePage:BasePage.py:24 Clicking on an element: login_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:34 Typing in an element: Email_login_XPATH, value entered: Nggdemopro_05@yopmail.com
+[32mINFO    [0m Pages.BasePage:BasePage.py:34 Typing in an element: Email_pass_XPATH, value entered: Pass@123
+[32mINFO    [0m Pages.BasePage:BasePage.py:24 Clicking on an element: Login_button_XPATH
+[32mINFO    [0m Testcases.test_login:test_login.py:31 Test Do Login executed successfully

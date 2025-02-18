@@ -1,0 +1,6 @@
+INFO     Testcases.test_login:test_login.py:24 Test Do Login started
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: login_XPATH
+INFO     Pages.BasePage:BasePage.py:34 Typing in an element: Email_login_XPATH, value entered: Nggdemopro_05@yopmail.com
+INFO     Pages.BasePage:BasePage.py:34 Typing in an element: Email_pass_XPATH, value entered: Pass@123
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: Login_button_XPATH
+INFO     Testcases.test_login:test_login.py:31 Test Do Login executed successfully

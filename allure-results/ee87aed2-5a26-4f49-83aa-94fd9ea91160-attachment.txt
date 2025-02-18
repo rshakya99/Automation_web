@@ -1,0 +1,6 @@
+INFO     Testcases.test_signup:test_signup.py:18 Test Do Sign up started
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: login_XPATH
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: create_account_XPATH
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: email_XPATH
+INFO     Pages.BasePage:BasePage.py:34 Typing in an element: email_XPATH, value entered: rohittest@yopmail.com
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: cemail_XPATH

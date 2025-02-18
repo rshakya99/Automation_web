@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6240","test_doSignUp[chrome-rohittest@yopmail.com-rohittest@yopmail.com-R-S-India-Pass@123-Pass@123]","","Mon Feb 17 15:52:46 IST 2025","broken","Mon Feb 17 15:52:52 IST 2025","Test_SignUp","test_signup","",""
+"","0","test_dologin[chrome-Nggdemopro_05@yopmail.com-Pass@123]","","Mon Feb 17 15:52:30 IST 2025","broken","Mon Feb 17 15:52:30 IST 2025","Test_login","test_login","",""
